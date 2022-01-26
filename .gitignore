@@ -1,0 +1,7 @@
+/VIDEOS
+/FACES
+/REPORTS
+/.temp
+*.txt
+haarcascade_fullbody.xml
+resnet50_coco_best_v2.0.1.h5
